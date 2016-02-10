@@ -20,10 +20,13 @@
         Carlos y Gi, rite. 
     </author>
 
+    <gap:plugin name="cordova-plugin-whitelist" source="npm" />
+
+    <allow-navigation href="http://*/*" />
     
     <access origin="*" />
 
-    <uses-permission android:name="android.permission.INTERNET" />
+    <!--uses-permission android:name="android.permission.INTERNET" /-->
     <!--preference name="orientation" value="landscape" /-->
 
 </widget>
