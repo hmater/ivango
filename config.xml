@@ -20,7 +20,8 @@
         Carlos y Gi, rite. 
     </author>
 
-    <access origin="http://televigilancia.ddns.net/" subdomains="true"/>
+    
+    <access origin="*" />
     <!--preference name="orientation" value="landscape" /-->
 
 </widget>
