@@ -16,7 +16,7 @@
     </description>
 
     <author email="horus@horus.hm">
-        GS && HM
+        GS + HM
     </author>
 
     <gap:plugin name="cordova-plugin-whitelist" source="npm" />
@@ -24,8 +24,6 @@
     <allow-navigation href="http://*/*" />
     
     <access origin="*" />
-
-
 
     <icon gap:platform="android" gap:qualifier="ldpi" src="res/icons/android/icon-36-ldpi.png"/>
     <icon gap:platform="android" gap:qualifier="mdpi" src="res/icons/android/icon-48-mdpi.png"/>
