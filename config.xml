@@ -12,11 +12,11 @@
     <name>Horus</name>
 
     <description>
-        Televigilancia App.
+        Inlectus App.
     </description>
 
-    <author email="horus@horus.hm">
-        GS + HM
+    <author email="ivango@ivan.go">
+        Ivango
     </author>
 
     <gap:plugin name="cordova-plugin-whitelist" source="npm" />
